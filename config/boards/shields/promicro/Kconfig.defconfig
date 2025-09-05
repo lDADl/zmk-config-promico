@@ -1,4 +1,4 @@
-if SHIELD_PROMICRO_RIGHT
+if SHIELD_PROMICRO_LEFT
 
 config ZMK_KEYBOARD_NAME
     default "skree_customs"
