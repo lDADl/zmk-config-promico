@@ -14,8 +14,8 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: promicro_right nice_view
+    shield: promicro_right
   - board: nice_nano_v2
-    shield: promicro_left nice_view
+    shield: promicro_left
   - board: nice_nano_v2
     shield: settings_reset
