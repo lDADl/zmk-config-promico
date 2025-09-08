@@ -1,6 +1,6 @@
 file_format: "1"
 id: promicro
-Name: promicro
+name: promicro
 type: shield
 url: https://github.com/wainingforests/zmk-config-promico/
 requires:
